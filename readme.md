@@ -1,6 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/kuyawa/fonpay/master/media/icon72.png) Fonpay
-
-## Your phone is your wallet
+![Logo](https://raw.githubusercontent.com/kuyawa/fonpay/master/media/header.png)
 
 Send USDC to more than a billion people in the world using your favorite messaging app like Telegram, Discord, Matrix, Slack, Twitter or Whatsapp as easy as
 
