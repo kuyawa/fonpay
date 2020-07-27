@@ -48,10 +48,15 @@ Here is a list of things you can do:
 _Note: only letters and numbers, no special characters or spaces_
 
 `account`: show your account number
+
 `address`: show your public key and qr-code
+
 `name`: change the name of your account
+
 `balance`: show the balance in your account
+
 `history`: show last 10 transactions 
+
 `pay`: send money to Fonpay users
 ```
   pay 100 to George
@@ -60,7 +65,9 @@ _Note: only letters and numbers, no special characters or spaces_
   pay 9.95 to 0xc9d7c2e8329556323245577b4d5a944e7Ba29DA5
 ```
 `@alice hello` send messages to any user in any platform
+
 `about`: Fonpay version
+
 `help`: this information
 
 
