@@ -49,20 +49,20 @@ _Note: only letters and numbers, no special characters or spaces_
 
 `address`: show your public key and qr-code
 
-`name`: change the name of your account
+`name`: show/change the name of your account
 
-`balance`: show the balance in your account
+`balance`: show your account's balance
 
 `history`: show last 10 transactions 
 
-`pay`: send money to Fonpay users
+`pay`: send money to Fonpay users or external accounts
 ```
   pay 100 to George
   pay 250 to Caroline
   pay 5.75 to Walmart
   pay 9.95 to 0xc9d7c2e8329556323245577b4d5a944e7Ba29DA5
 ```
-`@alice hello` send messages to any user in any platform
+`@alice hello` send messages to any Fonpay user in any platform
 
 `about`: Fonpay version
 
