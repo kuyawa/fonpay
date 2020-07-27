@@ -76,23 +76,22 @@ _Note: only letters and numbers, no special characters or spaces_
 
 ### Telegram
 
-Search for Fonpay user and start a direct chat, send register YourName to open your account
+Search for **Fonpaybot** user and start a direct chat, send `register YourName` to open your account
 
 
 ### Discord
 
-Login to your Discord account, click the following link to Add Fonpay to your servers then send a direct message register YourName to open your account
+Login to your Discord account, click the following link to [Add Fonpay](https://discordapp.com/api/oauth2/authorize?client_id=724790088223162439&permissions=2048&scope=bot) to your servers then send a direct message `register YourName` to open your account
 
 
 ### Riot/Matrix
 
-Search for @fonpay:matrix.org user and start a direct chat, send register YourName to open your account
+Search for `@fonpay:matrix.org` user and start a direct chat, send `register YourName` to open your account
 
 
 ### Slack
 
-Add to Slack
-Click the Add to Slack button to add Fonpay to your workspace
+Click the [Add to Slack](https://slack.com/oauth/v2/authorize?client_id=1221740514021.1208380035223&scope=im:write,im:read,chat:write,im:history&user_scope=) link to add **Fonpay** to your workspace
 
 
 ### Twitter
