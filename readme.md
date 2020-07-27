@@ -14,6 +14,7 @@ Fonpay allows you to send money to any person, anywhere, in just seconds, with t
 
 Whether you use Telegram, Discord, Matrix, Riot, Slack, Twitter or Whatsapp –the most used messaging apps in the world by more than a billion people– rest assured your payment will be received in no time protected by cryptography algorithms and the immutability of the blockchain.
 
+![Phone](https://raw.githubusercontent.com/kuyawa/fonpay/master/media/phone.png)
 
 ## How to use it?
 
